@@ -1,0 +1,20 @@
+.header {
+   height: 70px;
+   margin: 5px;
+   grid-area: h;
+   background: rgb(129, 194, 154);
+}
+.header_Logo img {
+   float: left;
+   height: 50px;
+   width: 50px;
+}
+
+.loginBlock {
+   float: right;
+
+}
+
+.loginBlock a {
+   color: white;
+}

@@ -1,0 +1,6 @@
+.profileContent {
+   padding: 10px;
+   margin: 5px;
+   grid-area: c;
+   background: rgb(160, 201, 241);
+}
